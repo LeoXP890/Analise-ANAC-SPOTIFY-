@@ -1,4 +1,4 @@
-<h1>Projeto Final - Senai</h1>
+<h1>Análise Integrada de Dados: Insights da Aviação (ANAC) e Tendências de Streaming de Áudio (Spotify)</h1>
 
 <p align="justify">O objetivo deste projeto é aplicar, na prática, todas as etapas do processo de análise de dados, desde a compreensão dos dados brutos até a criação de visualizações interativas por meio do <strong>Streamlit</strong>. Este projeto representa a consolidação prática dos conhecimentos adquiridos durante a capacitação, integrando conceitos de <strong>data cleaning</strong>, <strong>bancos de dados relacionais</strong> e <strong>data visualization</strong>.</p>
 
